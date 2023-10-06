@@ -1,0 +1,19 @@
+{
+  "name": "onvif",
+  "version": "1.0.0",
+  "description": "core onvif",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuyVoKMA/core-onvif.git"
+  },
+  "author": "quyvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuyVoKMA/core-onvif/issues"
+  },
+  "homepage": "https://github.com/QuyVoKMA/core-onvif#readme"
+}
