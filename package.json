@@ -4,6 +4,7 @@
   "description": "core onvif",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon main",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/QuyVoKMA/core-onvif/issues"
   },
-  "homepage": "https://github.com/QuyVoKMA/core-onvif#readme"
+  "homepage": "https://github.com/QuyVoKMA/core-onvif#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "onvif": "^0.6.9",
+    "socket.io": "^4.7.2",
+    "xml2js": "^0.6.2"
+  }
 }
